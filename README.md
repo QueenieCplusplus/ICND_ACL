@@ -1,5 +1,5 @@
-# ICND_ACL
-IP Access Control
+# ICND ACL
+IP Access Control List
 
 # CLI
 
