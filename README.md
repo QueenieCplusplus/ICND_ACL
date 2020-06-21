@@ -35,3 +35,5 @@ IP Access Control List 存取控制清單
 # 以存取等級紀錄控制 vty 連線
 
  vty : virtual terminal line 虛擬終端機連線
+
+
