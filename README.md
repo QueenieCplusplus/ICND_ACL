@@ -18,6 +18,9 @@ IP Access Control
      router(config)# access-list + < access-list-number> + deny
      // test
      
+     router(config)# access-list + < access-list-number> + permit + src add/wildcard mask
+     // test
+     
      router(config)# < protocol > + access-group + < access-list-number>  + in
      // 將一份存取清單指定給予一介面。
 
