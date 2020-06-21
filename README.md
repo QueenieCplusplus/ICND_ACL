@@ -19,7 +19,7 @@ IP Access Control
      // test
      
      router(config)# access-list + < access-list-number> + permit + src add/wildcard mask
-     // test
+     // 預設為 mask 0.0.0.0，全部比對。
      
      router(config)# < protocol > + access-group + < access-list-number>  + in
      // 將一份存取清單指定給予一介面。
