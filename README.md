@@ -36,6 +36,8 @@ IP Access Control List 存取控制清單
 
  vty : virtual terminal line 虛擬終端機連線
  
+ (to be continued...)
+ 
  https://github.com/QueenieCplusplus/ICND_Telnet
 
 
