@@ -32,3 +32,4 @@ IP Access Control List 存取控制清單
 
      router(config)# < protocol > + access-group + < access-list-number>  +  out
      
+# 以存取等級紀錄控制 vty 連線
