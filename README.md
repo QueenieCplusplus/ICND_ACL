@@ -13,6 +13,7 @@ IP Access Control
 範例：
 
      router(config)# access-list + < access-list-number> + permit 
+     // 存取清單中包含了辨識封包的一般性敘述。
      
      router(config)# access-list + < access-list-number> + deny
      
